@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-25T15:33:45.028447+00:00",
+  "generated_at": "2026-07-25T15:36:24.385278+00:00",
   "source_generated_at": "2026-07-03T01:00:17.248272+00:00",
   "source_generated_slot_id": "2026-07-02-QPM",
   "capture_schedule": {
@@ -773,6 +773,20 @@
       "feed_url": "https://www.timeextension.com/feeds/latest",
       "site_url": "https://www.timeextension.com/",
       "description": "Latest RSS feed from Time Extension."
+    }
+  ],
+  "latest": {
+    "rss_feed_items": "data/rss_feed_items.json.gz",
+    "rss_feed_history": "data/rss_feed_history.json.gz",
+    "rss_feeds": "data/rss_feeds.json"
+  },
+  "captures": [
+    {
+      "slot_id": "2026-07-02-QPM",
+      "files": {
+        "rss_feed_items.json.gz": "captures/2026-07-02-QPM/rss_feed_items.json.gz",
+        "rss_feed_history.json.gz": "captures/2026-07-02-QPM/rss_feed_history.json.gz"
+      }
     }
   ]
 }
