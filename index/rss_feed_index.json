@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-30T13:00:52.426734+00:00",
-  "source_generated_at": "2026-07-30T13:00:00.030601+00:00",
-  "source_generated_slot_id": "2026-07-30-QAM",
+  "generated_at": "2026-07-31T01:00:51.129752+00:00",
+  "source_generated_at": "2026-07-31T01:00:00.007922+00:00",
+  "source_generated_slot_id": "2026-07-30-QPM",
   "capture_schedule": {
     "timezone": "America/Los_Angeles",
     "captures": [
@@ -17,10 +17,10 @@
     ]
   },
   "next_capture": {
-    "capture_label": "QPM",
-    "scheduled_at": "2026-07-31T01:00:00+00:00",
-    "scheduled_at_local": "2026-07-30T18:00:00-07:00",
-    "slot_id": "2026-07-30-QPM"
+    "capture_label": "QAM",
+    "scheduled_at": "2026-07-31T13:00:00+00:00",
+    "scheduled_at_local": "2026-07-31T06:00:00-07:00",
+    "slot_id": "2026-07-31-QAM"
   },
   "feed_count": 75,
   "feeds": [
@@ -781,6 +781,13 @@
     "rss_feeds": "data/rss_feeds.json"
   },
   "captures": [
+    {
+      "slot_id": "2026-07-30-QPM",
+      "files": {
+        "rss_feed_items.json.gz": "captures/2026-07-30-QPM/rss_feed_items.json.gz",
+        "rss_feed_history.json.gz": "captures/2026-07-30-QPM/rss_feed_history.json.gz"
+      }
+    },
     {
       "slot_id": "2026-07-30-QAM",
       "files": {
