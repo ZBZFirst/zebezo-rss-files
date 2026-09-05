@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-05T01:12:02.257600+00:00",
-  "source_generated_at": "2026-09-05T01:00:00.055682+00:00",
+  "generated_at": "2026-09-05T13:11:06.137144+00:00",
+  "source_generated_at": "2026-09-05T12:59:56.693242+00:00",
   "source_generated_slot_id": "2026-09-04-QPM",
   "capture_schedule": {
     "timezone": "America/Los_Angeles",
@@ -17,10 +17,10 @@
     ]
   },
   "next_capture": {
-    "capture_label": "QAM",
-    "scheduled_at": "2026-09-05T13:00:00+00:00",
-    "scheduled_at_local": "2026-09-05T06:00:00-07:00",
-    "slot_id": "2026-09-05-QAM"
+    "capture_label": "QPM",
+    "scheduled_at": "2026-09-06T01:00:00+00:00",
+    "scheduled_at_local": "2026-09-05T18:00:00-07:00",
+    "slot_id": "2026-09-05-QPM"
   },
   "feed_count": 75,
   "feeds": [
