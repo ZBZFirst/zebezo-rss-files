@@ -13,8 +13,8 @@ This repository is a generated mirror of the RSS capture files from the Pi-hoste
 
 ## Latest Sync
 
-- Source slot: `2026-11-21-QAM`
-- Source generated at: `2026-11-21T14:00:00.049108+00:00`
+- Source slot: `2026-11-21-QPM`
+- Source generated at: `2026-11-22T02:00:00.041610+00:00`
 - Feeds: `75`
 
 Do not hand-edit these generated files. Update the Pi feed registry or capture worker, then run the sync.
